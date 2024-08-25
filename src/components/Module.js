@@ -1,6 +1,6 @@
 // src/components/Module.js
 import React, { useState } from 'react';
-import Resource from './R1';
+import Resource from './Resource';
 import { FaTrash, FaEdit, FaUpload, FaLink } from 'react-icons/fa';
 
 const Module = ({ module, addResource, renameModule, deleteModule }) => {

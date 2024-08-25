@@ -1,6 +1,6 @@
 // src/components/CourseBuilder.js
 import React, { useState } from 'react';
-import Module from './M1';
+import Module from './Module';
 import { FaPlus, FaUpload, FaLink } from 'react-icons/fa'; // Import FaUpload and FaLink
 import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
 
